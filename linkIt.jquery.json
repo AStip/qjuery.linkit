@@ -1,0 +1,33 @@
+{
+    "name": "linkIt",
+    "title": "LinkIt jQuery Plugin",
+    "description": "Simple plugin to convert any elemenet into a link.",
+    "keywords": [
+        "link",
+        "html",
+		"content"
+    ],
+    "version": "0.1.0",
+    "author": {
+        "name": "Andris Stipnieks",
+        "url": ""
+    },
+    "maintainers": [
+        {
+            "name": "Andris Stipnieks",
+            "email": "aadry@inbox.lv",
+            "url": ""
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/AStip/qjuery.linkit/LICENSE.txt"
+        }
+    ],    
+    "homepage": "https://github.com/AStip/qjuery.linkit",
+    "docs": "https://github.com/AStip/qjuery.linkit", 
+    "dependencies": {
+        "jquery": ">=1.9"
+    }
+}
